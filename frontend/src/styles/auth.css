@@ -1,0 +1,36 @@
+
+
+
+.login-container {
+  display: block;
+  width: 100%;
+  flex: 1;
+  padding: 3rem 1.5rem;
+  border: 1px solid rgba(0,0,0,.1);
+}
+
+.login-btn { /* form-button-group */
+  text-align: center;
+  margin-top: 1.5rem;
+}
+
+.form-button-group {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.auth-form-group {
+  margin-top: 1.2rem; /* test if this works, may need override */
+}
+
+.login-error-container {
+  text-align: center;
+  color: red;
+  margin-top: 1rem;
+  margin-bottom: .5rem;
+}
+
+.auth-form-header {
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
